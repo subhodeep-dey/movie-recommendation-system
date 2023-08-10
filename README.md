@@ -1,2 +1,2 @@
-# movie-recommender-system-tmdb-dataset
-A content based movie recommender system using cosine similarity
+# movie-recommendation-system
+Movie Recommendation System in Python using Vectorization (bag of words) and Cosine Similarity from sklearn library
